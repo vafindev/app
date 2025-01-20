@@ -1,0 +1,25 @@
+{
+  "name": "VAFINDEV",
+  "short_name": "VAFINDEV",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "display_override": ["minimal-ui", "window-controls-overlay"],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "description": "Project VAFINDEV",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}

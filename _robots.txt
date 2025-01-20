@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /image/
+Host: vafindev.com
